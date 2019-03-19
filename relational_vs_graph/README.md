@@ -5,3 +5,5 @@ This scenario walks through the following business requirements in 4 steps/versi
 - Stage 2: Add a requirement for any given employee to belong to any other group or groups. Try to answer which group contains which employee now. 
 - Stage 3: Add a requirement to include super-groups (groups of groups). Try to answer which groups are under the super group.
 - Stage 4: Add a requirement for added hierarchies on the same dataset. Try to answer which managers are under the Engineering group.
+
+Consult the PDF for visual instructions.
